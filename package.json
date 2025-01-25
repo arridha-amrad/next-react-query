@@ -1,0 +1,36 @@
+{
+  "name": "next-react-query",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "json-server": "npx json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@tanstack/react-query": "^5.64.2",
+    "date-fns": "^4.1.0",
+    "json-server": "^1.0.0-beta.3",
+    "next": "15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0",
+    "uuid": "^11.0.5"
+  },
+  "devDependencies": {
+    "@tanstack/eslint-plugin-query": "^5.64.2",
+    "@tanstack/react-query-devtools": "^5.64.2",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "9.19.0",
+    "eslint-config-next": "15.1.6",
+    "postcss": "^8.5.1",
+    "typescript": "^5"
+  }
+}

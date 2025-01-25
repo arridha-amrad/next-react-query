@@ -1,0 +1,194 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "body": "adipisicing elit. Sapiente praesentium qui tempora enim porro ratione natus ",
+      "createdAt": "2025-01-24T04:23:08.668Z",
+      "userId": "1e0c",
+      "likers": [
+        "68f1",
+        "0c37"
+      ]
+    },
+    {
+      "id": "fe21",
+      "userId": "68f1",
+      "body": "Ohayou gozaimasu!!",
+      "likers": [
+        "0c37",
+        "b611",
+        "1e0c"
+      ],
+      "createdAt": "2025-01-24T09:07:36.212Z"
+    },
+    {
+      "id": "45af",
+      "userId": "b611",
+      "body": "Merhaba arkadaslar... 👋",
+      "likers": [
+        "b611",
+        "1e0c",
+        "0c37",
+        "68f1"
+      ],
+      "createdAt": "2025-01-24T12:38:43.681Z"
+    },
+    {
+      "id": "0609",
+      "userId": "0c37",
+      "body": "vamooo!! ⚽️",
+      "likers": [
+        "b611",
+        "68f1",
+        "1e0c"
+      ],
+      "createdAt": "2025-01-25T14:17:17.057Z"
+    },
+    {
+      "id": "7231",
+      "userId": "8454",
+      "body": "i will leave united soon 👋",
+      "likers": [
+        "8454",
+        "1e0c",
+        "b611",
+        "0c37"
+      ],
+      "createdAt": "2025-01-25T14:53:05.684Z"
+    },
+    {
+      "id": "51e9",
+      "userId": "68f1",
+      "body": "Let's beat fulham at their home!",
+      "likers": [
+        "1e0c"
+      ],
+      "createdAt": "2025-01-25T15:25:52.256Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "bc7d",
+      "body": "comment..",
+      "userId": "b611",
+      "postId": "2",
+      "createdAt": "2025-01-25T13:48:18.951Z"
+    },
+    {
+      "id": "7326",
+      "body": "sugoiii",
+      "userId": "68f1",
+      "postId": "2",
+      "createdAt": "2025-01-25T13:50:18.536Z"
+    },
+    {
+      "id": "745e",
+      "body": "adioss",
+      "userId": "68f1",
+      "postId": "2",
+      "createdAt": "2025-01-25T14:16:09.699Z"
+    },
+    {
+      "id": "9a9a",
+      "body": "magnifico!!",
+      "userId": "1e0c",
+      "postId": "0609",
+      "createdAt": "2025-01-25T14:17:41.116Z"
+    },
+    {
+      "id": "8ecb",
+      "body": "Well done capt! 👑",
+      "userId": "b611",
+      "postId": "0609",
+      "createdAt": "2025-01-25T14:19:03.242Z"
+    },
+    {
+      "id": "171f",
+      "body": "💪💪💪",
+      "userId": "68f1",
+      "postId": "0609",
+      "createdAt": "2025-01-25T14:32:43.554Z"
+    },
+    {
+      "id": "6421",
+      "body": "morning!",
+      "userId": "1e0c",
+      "postId": "fe21",
+      "createdAt": "2025-01-25T14:37:59.133Z"
+    },
+    {
+      "id": "46b1",
+      "body": "🔥🔥🔥",
+      "userId": "1e0c",
+      "postId": "0609",
+      "createdAt": "2025-01-25T14:45:28.021Z"
+    },
+    {
+      "id": "9251",
+      "body": "😁",
+      "userId": "1e0c",
+      "postId": "7231",
+      "createdAt": "2025-01-25T14:54:33.990Z"
+    },
+    {
+      "id": "9939",
+      "body": "gud luck for ur next journey 🥳",
+      "userId": "68f1",
+      "postId": "7231",
+      "createdAt": "2025-01-25T14:55:26.843Z"
+    },
+    {
+      "id": "995e",
+      "body": "HAHAHAHAHA",
+      "userId": "0c37",
+      "postId": "7231",
+      "createdAt": "2025-01-25T14:58:26.180Z"
+    },
+    {
+      "id": "294a",
+      "body": "merhaba..",
+      "userId": "1e0c",
+      "postId": "45af",
+      "createdAt": "2025-01-25T15:15:49.028Z"
+    },
+    {
+      "id": "24f6",
+      "body": "morning..!",
+      "userId": "68f1",
+      "postId": "45af",
+      "createdAt": "2025-01-25T15:16:06.010Z"
+    },
+    {
+      "id": "c514",
+      "body": "Come on lads!! 🔥🔥🔥🔥🔥",
+      "userId": "1e0c",
+      "postId": "51e9",
+      "createdAt": "2025-01-25T15:26:29.287Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "b611",
+      "username": "bayindir1"
+    },
+    {
+      "id": "1e0c",
+      "username": "arridhaamrad"
+    },
+    {
+      "id": "68f1",
+      "username": "licha_martinez"
+    },
+    {
+      "id": "0c37",
+      "username": "b.fernandez"
+    },
+    {
+      "id": "8454",
+      "username": "rashford"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
